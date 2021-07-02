@@ -1,0 +1,36 @@
+/* 
+    RESET CSS MARGINS - PADDINGS
+*/
+
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+
+/* 
+    REUSALBLE CLASSES
+*/
+
+/* FLEX PROPERTY */
+.d_flex {display: flex;}
+
+.flex_column {flex-direction: column;}
+
+/* Flex Horizontal */
+.flex_hor_start {justify-content: flex-start;}
+.flex_hor_center {justify-content: center;}
+.flex_hor_end {justify-content: flex-end;}
+
+/* Flex Vertical */
+.flex_ver_center {align-items: center;}
+
+/* Flex Spaces Items */
+
+.flex_space_btw {justify-content: space-between;}
+.flex_space_around {justify-content: space-around;}
+.flex_space_evenly {justify-content: space-evenly;}
+
+
+
+
+/* Attribution footer  */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
